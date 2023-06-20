@@ -81,4 +81,3 @@ My device password cracking speed:
 
 ![006c05e6b7f2e4ee178ed93bb8a30cd7d04186e2b6461d83dcdca98e23a1b402](https://user-images.githubusercontent.com/95903270/218308676-e11c4d7e-5a88-407c-a258-59264c109976.jpg)
 
-# Sorry For My Bad English :)
